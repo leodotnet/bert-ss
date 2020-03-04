@@ -1,0 +1,7 @@
+O
+B-positive
+I-positive
+B-neutral
+I-neutral
+B-negative
+I-negative
